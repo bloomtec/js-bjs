@@ -1,4 +1,3 @@
-$(function(){
 	BJS = {};
 
 	BJS.get = function(url, params, callback) {
@@ -222,4 +221,4 @@ $(function(){
 			}
 		}
 	}
-});
+

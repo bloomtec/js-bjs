@@ -129,7 +129,7 @@ $(function(){
 				$select.append('<option value="">Seleccione..</option>');
 				if($callback){
 					$callback()
-				};
+				};
 			}
 		});	
 	}
